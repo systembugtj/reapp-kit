@@ -4,8 +4,8 @@
   "description": "Unified platform for apps",
   "main": "dist",
   "scripts": {
-    "build": "babel src --out-dir dist --stage=0",
-    "watch": "babel src --out-dir dist --stage=0 --watch"
+    "build": "babel src --out-dir dist",
+    "watch": "babel src --out-dir dist --watch"
   },
   "repository": {
     "type": "git",
